@@ -1,0 +1,1 @@
+draw_sprite(spr_item, item_type, x, y);

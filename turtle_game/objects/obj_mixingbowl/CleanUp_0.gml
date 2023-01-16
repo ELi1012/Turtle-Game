@@ -1,0 +1,1 @@
+if (ds_exists(disappear_ingr, ds_type_list)) ds_list_destroy(disappear_ingr);

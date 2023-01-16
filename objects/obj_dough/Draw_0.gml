@@ -1,0 +1,1 @@
+draw_sprite(spr_dough, state, x, y);
